@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "peace_century:item/man_made_cloth"
+  }
+}

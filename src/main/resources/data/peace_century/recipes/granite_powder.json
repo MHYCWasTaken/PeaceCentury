@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "result":
+  {
+    "item": "peace_century:granite_powder",
+    "count": 4
+  }
+}

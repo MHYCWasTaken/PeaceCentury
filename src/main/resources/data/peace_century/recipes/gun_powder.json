@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "peace_century:granite_powder"
+    },
+    {
+      "item": "peace_century:diorite_powder"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result":
+  {
+    "item": "minecraft:gun_powder",
+    "count": 2
+  }
+}

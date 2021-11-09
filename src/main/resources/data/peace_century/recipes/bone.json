@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "x",
+    "X"
+  ],
+  "key": {
+    "X":{
+      "item": "minecraft:bone_powder"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:bone",
+    "count": 4
+  }
+}
