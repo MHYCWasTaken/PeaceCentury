@@ -1,5 +1,6 @@
 package mhyc.peaceCentury;
 
+import mhyc.peaceCentury.blocks.BlockRegistryHandler;
 import mhyc.peaceCentury.items.ItemRegistryHandler;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -40,7 +41,7 @@ public class PeaceCentury
         // Register ourselves for server and other game events we are interested in
         // from for doc, does it work?    YES IT WORKS!!!!!
         FMLJavaModLoadingContext.get().getModEventBus().register(ItemRegistryHandler.class);
-        
+        FMLJavaModLoadingContext.get().getModEventBus().register(BlockRegistryHandler.class);
         //FMLJavaModLoadingContext.get().getModEventBus().register(modelMatcher.class);
     }
 
